@@ -1,6 +1,7 @@
 # FunkcjaKwadratowa
 
-Aplikacja, którą planuje wydać, nie jest jednak jeszcze skończona - muszę ją zdebugować i zoptymalizować.
+Aplikacja oblicza miejsca zerowe funkcji kwadratowej w postaci liczb wymiernych (nie przybliża wartości pierwiastków, a liczy dokładnie) oraz wyświetla obliczenia.
+Projekt nie jest jednak jeszcze skończony - muszę go zdebugować i zoptymalizować.
 
 ### Czego się nauczyłem? ###
 
